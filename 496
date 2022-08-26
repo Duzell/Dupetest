@@ -1,0 +1,491 @@
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1927.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1924.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1921.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1918.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1915.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1912.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1909.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1906.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1903.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1900.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1897.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1894.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1891.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1888.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1885.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1882.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1879.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1876.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1873.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1870.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1867.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1864.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1861.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1858.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1703.35938, 606.023621, -1855.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1700.35938, 606.023621, -1927.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1700.35938, 606.023621, -1924.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1700.35938, 606.023621, -1921.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1700.35938, 606.023621, -1918.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1700.35938, 606.023621, -1915.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1700.35938, 606.023621, -1912.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1700.35938, 606.023621, -1909.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1700.35938, 606.023621, -1906.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1700.35938, 606.023621, -1903.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1700.35938, 606.023621, -1900.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1700.35938, 606.023621, -1897.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1700.35938, 606.023621, -1894.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1700.35938, 606.023621, -1891.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1700.35938, 606.023621, -1888.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1700.35938, 606.023621, -1885.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
+
+local ohNumber1 = 215
+
+game:GetService("ReplicatedStorage").HasItem:InvokeServer(ohNumber1)
+
+local ohString1 = "Tiny Conveyor"
+local ohCFrame2 = CFrame.new(1700.35938, 606.023621, -1882.6604, 1.19248806e-08, 0, -1, 0, 1, 0, 1, 0, 1.19248806e-08)
+local ohTable3 = {
+	[1] = "TYCOON"
+}
+
+game:GetService("ReplicatedStorage").PlaceItem:InvokeServer(ohString1, ohCFrame2, ohTable3)
